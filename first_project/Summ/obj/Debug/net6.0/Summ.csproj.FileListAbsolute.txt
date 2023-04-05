@@ -1,0 +1,15 @@
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Summ\bin\Debug\net6.0\Summ.exe
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Summ\bin\Debug\net6.0\Summ.deps.json
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Summ\bin\Debug\net6.0\Summ.runtimeconfig.json
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Summ\bin\Debug\net6.0\Summ.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Summ\bin\Debug\net6.0\Summ.pdb
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Summ\obj\Debug\net6.0\Summ.csproj.AssemblyReference.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Summ\obj\Debug\net6.0\Summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Summ\obj\Debug\net6.0\Summ.AssemblyInfoInputs.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Summ\obj\Debug\net6.0\Summ.AssemblyInfo.cs
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Summ\obj\Debug\net6.0\Summ.csproj.CoreCompileInputs.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Summ\obj\Debug\net6.0\Summ.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Summ\obj\Debug\net6.0\refint\Summ.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Summ\obj\Debug\net6.0\Summ.pdb
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Summ\obj\Debug\net6.0\Summ.genruntimeconfig.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Summ\obj\Debug\net6.0\ref\Summ.dll
