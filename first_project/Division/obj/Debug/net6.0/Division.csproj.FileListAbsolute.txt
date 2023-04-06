@@ -1,0 +1,15 @@
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Division\bin\Debug\net6.0\Division.exe
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Division\bin\Debug\net6.0\Division.deps.json
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Division\bin\Debug\net6.0\Division.runtimeconfig.json
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Division\bin\Debug\net6.0\Division.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Division\bin\Debug\net6.0\Division.pdb
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Division\obj\Debug\net6.0\Division.csproj.AssemblyReference.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Division\obj\Debug\net6.0\Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Division\obj\Debug\net6.0\Division.AssemblyInfoInputs.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Division\obj\Debug\net6.0\Division.AssemblyInfo.cs
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Division\obj\Debug\net6.0\Division.csproj.CoreCompileInputs.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Division\obj\Debug\net6.0\Division.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Division\obj\Debug\net6.0\refint\Division.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Division\obj\Debug\net6.0\Division.pdb
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Division\obj\Debug\net6.0\Division.genruntimeconfig.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Division\obj\Debug\net6.0\ref\Division.dll
