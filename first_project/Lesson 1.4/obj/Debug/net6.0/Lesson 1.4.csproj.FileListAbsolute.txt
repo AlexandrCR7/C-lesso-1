@@ -1,0 +1,15 @@
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Lesson 1.4\obj\Debug\net6.0\Lesson 1.4.csproj.AssemblyReference.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Lesson 1.4\obj\Debug\net6.0\Lesson 1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Lesson 1.4\obj\Debug\net6.0\Lesson 1.4.AssemblyInfoInputs.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Lesson 1.4\obj\Debug\net6.0\Lesson 1.4.AssemblyInfo.cs
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Lesson 1.4\obj\Debug\net6.0\Lesson 1.4.csproj.CoreCompileInputs.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Lesson 1.4\bin\Debug\net6.0\Lesson 1.4.exe
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Lesson 1.4\bin\Debug\net6.0\Lesson 1.4.deps.json
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Lesson 1.4\bin\Debug\net6.0\Lesson 1.4.runtimeconfig.json
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Lesson 1.4\bin\Debug\net6.0\Lesson 1.4.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Lesson 1.4\bin\Debug\net6.0\Lesson 1.4.pdb
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Lesson 1.4\obj\Debug\net6.0\Lesson 1.4.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Lesson 1.4\obj\Debug\net6.0\refint\Lesson 1.4.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Lesson 1.4\obj\Debug\net6.0\Lesson 1.4.pdb
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Lesson 1.4\obj\Debug\net6.0\Lesson 1.4.genruntimeconfig.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\С#\LESSON 1\first_project\Lesson 1.4\obj\Debug\net6.0\ref\Lesson 1.4.dll
